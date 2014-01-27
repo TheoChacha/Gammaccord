@@ -1,4 +1,4 @@
 Gammaccord
 ==========
 
-Projet Isn concernant la musique
+Projet Isn concernant la musique et l'informatique
